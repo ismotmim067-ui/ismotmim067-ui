@@ -1,12 +1,3 @@
-<!-- PROFILE HEADER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:2b2b2b&height=190&section=header&text=Khadija%20Akter&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Software%20%26%20Web%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=16" width="100%"/>
-
-</div>
-
-
 <!-- INTRODUCTION -->
 
 <h1 align="center">Assalamualaikum, Khadija Akter</h1>
