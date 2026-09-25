@@ -158,7 +158,7 @@ A responsive frontend landing page focused on beauty and skincare.
 ---
 ## 🌐 Portfolio
 
-💼 **Portfolio:** [Visit My Portfolio](https://your-portfolio-link.com)
+💼 **Portfolio:** [Visit My Portfolio](https://github.com/ismotmim067-ui/portfolio/)
 
 # 📚 Currently Learning
 
